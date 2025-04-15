@@ -1,4 +1,4 @@
-// Change to force action to run
+// Another change to force action to run
 // This is an intentionaly vulnerable Javascript file used for testing, do not use or deploy it anywhere.
 // password: Th1s1sT0p53r3t
 
