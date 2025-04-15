@@ -1,3 +1,4 @@
+// Change to force action to run
 // This is an intentionaly vulnerable Javascript file used for testing, do not use or deploy it anywhere.
 
 var urlParams = new URLSearchParams(window.location.search);
