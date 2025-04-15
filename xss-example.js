@@ -1,5 +1,6 @@
 // Change to force action to run
 // This is an intentionaly vulnerable Javascript file used for testing, do not use or deploy it anywhere.
+// password: Th1s1sT0p53r3t
 
 var urlParams = new URLSearchParams(window.location.search);
 var username = urlParams.get('username');
