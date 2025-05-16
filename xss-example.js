@@ -1,5 +1,5 @@
 // This is an intentionaly vulnerable Javascript file used for testing, do not use or deploy it anywhere.
-
+// Password: T0pS3cret!@
 var urlParams = new URLSearchParams(window.location.search);
 var username = urlParams.get('username');
 
